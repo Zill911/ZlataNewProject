@@ -1,3 +1,3 @@
-# ZlataNewProject
-# Проект Итоговый
-Привет лузер
+# Zill New Project
+# Final Project
+Hello
